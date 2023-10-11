@@ -22,5 +22,5 @@ https://doi.org/10.1016/j.juro.2011.04.013
 - "Improved surgical ergonomics, endurance and posture decrease surgical fatigue and the incidence of repetitive stress injuries to laparoscopic surgeons"
 
 
-The Alexander Method 
+The Alexander Method - 
 
