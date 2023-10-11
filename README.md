@@ -1,3 +1,3 @@
 # MobileSecondBrain
 
-[[Index]]
+[[Index.md]]
