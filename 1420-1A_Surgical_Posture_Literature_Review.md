@@ -21,4 +21,6 @@ https://doi.org/10.1016/j.juro.2011.04.013
 - Small pilot study 7 people - claims to have shown benefit - but tiny study and need time line
 - "Improved surgical ergonomics, endurance and posture decrease surgical fatigue and the incidence of repetitive stress injuries to laparoscopic surgeons"
 
-- 
+
+The Alexander Method 
+
