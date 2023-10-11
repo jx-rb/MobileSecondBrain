@@ -22,5 +22,8 @@ https://doi.org/10.1016/j.juro.2011.04.013
 - "Improved surgical ergonomics, endurance and posture decrease surgical fatigue and the incidence of repetitive stress injuries to laparoscopic surgeons"
 
 
-The Alexander Method - 
+The Alexander Method and Fledenkrais Method 
+- Alexander Method - Head leads posture - up and forward
+- Fledenkrais Method - Movement patterns learned by exploring alterantives and variations of movment - leading to adoption of more efficient movement patterns
+  - only incorrect when a student percieves no further movements 
 
