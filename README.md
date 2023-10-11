@@ -1,1 +1,3 @@
 # MobileSecondBrain
+
+[[Index]]
