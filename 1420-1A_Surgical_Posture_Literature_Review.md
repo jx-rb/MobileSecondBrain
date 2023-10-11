@@ -26,4 +26,4 @@ The Alexander Method and Fledenkrais Method
 - Alexander Method - Head leads posture - up and forward
 - Fledenkrais Method - Movement patterns learned by exploring alterantives and variations of movment - leading to adoption of more efficient movement patterns
   - only incorrect when a student percieves no further movements 
-
+- Both techniques encourage learning through experience of movement
