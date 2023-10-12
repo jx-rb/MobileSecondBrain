@@ -27,3 +27,9 @@ The Alexander Method and Fledenkrais Method
 - Fledenkrais Method - Movement patterns learned by exploring alterantives and variations of movment - leading to adoption of more efficient movement patterns
   - only incorrect when a student percieves no further movements 
 - Both techniques encourage learning through experience of movement
+
+
+Surgical ergonomics: Assessment of surgeon posture and impact of training device during otolaryngology procedures
+Karen L. Leung, B.S., 1 Rachel M. Segal, B.S., 1 Jeffrey D. Bernstein, M.D., 2 Ryan K. Orosco, M.D., 2 and Chris M. Reid, M.D.corresponding autho
+
+"While surgeon posture varies across otolaryngology surgeries, sitting and minimizing the use of loupes may help promote a more ergonomic operating environment and improve surgeon posture. Although the efficacy of biofeedback intervention from a commercially available posture‐training device differs among otolaryngologists, exploration of alternative interventions and incorporation of an ergonomics curriculum is warranted to address postural issues experienced by many surgeons."
