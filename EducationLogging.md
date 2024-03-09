@@ -10,8 +10,8 @@ Session [Attended]/[Logged]
 - [] [] 20/09/23 - Microbiology how to get the most from services 
 - [] [] 27/09/23 - How to Avoid coroners Wrath 
 - [] [] 04/10/23 - Cancelled due to Strikes 
-- [X] [] 11/10/23 - EWS and sepsis 
-- [X] [] 18/10/23 - Enhace Foundation Program
+- [X] [X] 11/10/23 - EWS and sepsis 
+- [X] [X] 18/10/23 - Enhace Foundation Program
 - [] [] 25/10/23 - The relatives appointment 
 - [] [] 1/11/23 - Cardiac Emergencies 
 - [] [] 8/11/23 Comprehensive Geriatric Assessment 
