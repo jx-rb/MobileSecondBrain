@@ -8,7 +8,7 @@
   - [] Placement 1    
   - [] Placement 2 
 - [] Clincal Supervisors end of placement
-  - [] Placement 1
+  - [X] Placement 1
   - [] Placement 2
   - [] Placement 3
 - [x] TAB
@@ -27,7 +27,7 @@
   - [] NTS
 - [x] PSA
 - [ ] Training
-  - [ ] ILS
+  - [X] ILS
   - [ ] Completion of E-learning
     - [ ] 01_01 Safe Prescribing and VTE Scenario (FPC5)
     - [ ] 01_02 Blood Transfusion and Consent Scenario (FPC4)
