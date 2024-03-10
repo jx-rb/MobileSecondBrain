@@ -1,15 +1,15 @@
 # Logging Core Teaching 
 
 Session [Attended]/[Logged] 
-- [] []09/08/23 - Introduction To Quality Assurance
+- [X] [X] 09/08/23 - Introduction To Quality Assurance
 - [] []16/08/23 - Palliative and EoL care common mistakes
 - [] []23/08/23 - Alcohol Withdrawal - Treatment & Management 
-- [] []30/08/23 - UHLs health and wellbeing at work 
+- [X] [X]30/08/23 - UHLs health and wellbeing at work 
 - [] []06/09/23 - How to Tackle Smoking Addiction 
-- [X] []13/09/23 - Vascular Emergencies
+- [X] [X]13/09/23 - Vascular Emergencies
 - [] [] 20/09/23 - Microbiology how to get the most from services 
 - [] [] 27/09/23 - How to Avoid coroners Wrath 
-- [] [] 04/10/23 - Cancelled due to Strikes 
+- [N] [N] 04/10/23 - Cancelled due to Strikes 
 - [X] [X] 11/10/23 - EWS and sepsis 
 - [X] [X] 18/10/23 - Enhace Foundation Program
 - [] [] 25/10/23 - The relatives appointment 
@@ -19,12 +19,12 @@ Session [Attended]/[Logged]
 - [X] [X] 22/11/23 - Delirium 
 - [] [] 29/11/23 - Foundation Doctor Patient Safety Teaching 
 - [] [] 13/12/23 - Infectious Disease Medical Emergencies
-- [] [] 20/12/23 - Iron Metabolism
+- [X] [X] 20/12/23 - Iron Metabolism
 - [X] [X] 31/01/24 - Core Teaching MSRA
 - [X] [] 07/02/24 - Respiratory Emergencies 
 - [X] [X] 14/02/24 - Dermatology Emergencies 
-- [X] [] 21/02/24 - GMC Online Professionalism 
-- [] [] 28/02/24 - Cancelled due to strikes 
+- [X] [X] 21/02/24 - GMC Online Professionalism 
+- [N] [N] 28/02/24 - Cancelled due to strikes 
 - [] [] 06/03/24 - Blood transfusion and complications with Transfusion Alternatives
 - []
 - []
